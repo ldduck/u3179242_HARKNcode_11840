@@ -1,0 +1,8 @@
+/* import of universal default stylings in the case a users browser does not support the style presented below */
+@import url('https://meyerweb.com/eric/tools/css/reset/reset.css');
+
+
+.container {
+ background-color: aquamarine;
+
+}
