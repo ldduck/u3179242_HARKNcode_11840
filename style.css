@@ -1,6 +1,21 @@
 /* import of universal default stylings in the case a users browser does not support the style presented below */
 @import url('https://meyerweb.com/eric/tools/css/reset/reset.css');
 
+body {
+    font-family: Arial, sans-serif;
+    background: #f4f4f4;
+    margin: 0;
+    padding: 0;
+    text-align: center;
+}
+h1 {
+    color: #333;
+}
+button {
+    padding: 10px 20px;
+    font-size: 16px;
+    cursor: pointer;
+}
 
 .container {
  background-color: aquamarine;
